@@ -15,7 +15,7 @@ git clone https://github.com/Darvox05/laravel.git
 2. **Navegar al Directorio del Proyecto**: Una vez clonado, navega al directorio del proyecto:
 
 ```bash
-cd nombre-del-proyecto
+cd crud_laravel
 ```
 
 ## 🔧 Configuración del Entorno
