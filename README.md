@@ -1,17 +1,16 @@
 
 # Guía de Inicio para Proyecto Laravel
 
-¡Bienvenido! Esta guía te ayudará a poner en marcha tu proyecto Laravel descargándolo desde Git, configurando tu entorno local, y más.
+¡Poner en marcha tu proyecto Laravel descargándolo desde Git.
 
 ## 🚀 Descargar el Proyecto
 
 1. **Clonar el Repositorio**: Primero, necesitarás clonar el repositorio de Git donde se encuentra el proyecto. Abre tu terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://url-del-repositorio.git
+git clone https://github.com/Darvox05/laravel.git
 ```
 
-Asegúrate de reemplazar `https://url-del-repositorio.git` con la URL actual de tu repositorio.
 
 2. **Navegar al Directorio del Proyecto**: Una vez clonado, navega al directorio del proyecto:
 
